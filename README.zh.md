@@ -14,12 +14,7 @@
 
 在线版提供搜索、筛选、模式切换和一键下载功能，体验更好。
 
-**功能特性：**
-- **搜索** — 按名称快速查找图标
-- **筛选** — 按 Provider / Model / Application 分类
-- **切换** — Color / Mono 模式切换
-- **下载** — SVG / PNG / WebP 格式
-- **复制** — 一键复制 SVG 代码
+需要这里没有的图标？欢迎[提交 Issue](https://github.com/gokuscraper/ai-icons/issues)。
 
 ### Provider（124 个）
 

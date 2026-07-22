@@ -14,12 +14,7 @@
 
 The online version provides a better browsing experience with search, filtering, mode switching, and one-click download.
 
-**Features:**
-- **Search** — quickly find icons by name
-- **Filter** — by Provider / Model / Application category
-- **Toggle** — switch between Color / Mono modes
-- **Download** — SVG / PNG / WebP formats
-- **Copy** — one-click SVG copy
+Need an icon that's not listed here? [Open an issue](https://github.com/gokuscraper/ai-icons/issues).
 
 ### Provider (124)
 
