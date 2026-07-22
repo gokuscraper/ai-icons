@@ -1,0 +1,34 @@
+name: '🎯 Icon Request | 图标请求'
+description: 'Request a new icon to be added | 请求添加新图标'
+title: '[Icon Request] '
+labels: '🎯 Icon Request'
+body:
+  - type: input
+    attributes:
+      label: 'Icon Name | 图标名称'
+      description: 'e.g. OpenAI, Claude, DeepSeek'
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: 'Category | 分类'
+      options:
+        - Provider
+        - Model
+        - Application
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: 'Website URL | 官网地址'
+      description: Official website of the brand
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: 'Reference / Logo URL | 参考图标链接'
+      description: Link to the official logo or brand assets page
+  - type: textarea
+    attributes:
+      label: 'Additional Info | 补充信息'
+      description: Any other context
