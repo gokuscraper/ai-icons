@@ -1,8 +1,8 @@
 # AI Icons
 
-[涓枃](README.zh.md) | **English**
+[中文](README.zh.md) | **English**
 
-> **321 AI / LLM brand icons** in SVG format 鈥?Mono 路 Color 路 Text variants
+> **321 AI / LLM brand icons** in SVG format — Mono · Color · Text variants
 
 [![Website](https://img.shields.io/badge/Online%20Preview-prompthub.gokuscraper.com-blue)](https://prompthub.gokuscraper.com/icons/)
 
@@ -10,32 +10,32 @@
 
 ## Online Preview & Search
 
-馃憠 **[prompthub.gokuscraper.com/icons/](https://prompthub.gokuscraper.com/icons/)**
+👉 **[prompthub.gokuscraper.com/icons/](https://prompthub.gokuscraper.com/icons/)**
 
 The online version provides a better browsing experience with search, filtering, mode switching, and one-click download.
 
 **Features:**
-- **Search** 鈥?quickly find icons by name
-- **Filter** 鈥?by Provider / Model / Application category
-- **Toggle** 鈥?switch between Color / Mono modes
-- **Download** 鈥?SVG / PNG / WebP formats
-- **Copy** 鈥?one-click SVG copy
+- **Search** — quickly find icons by name
+- **Filter** — by Provider / Model / Application category
+- **Toggle** — switch between Color / Mono modes
+- **Download** — SVG / PNG / WebP formats
+- **Copy** — one-click SVG copy
 
 ### Provider (124)
 
 | Icon | ID | Name |
 |------|----|------|
-| <img src="svgs/zeroone-color.svg" width="24" height="24"> | `zero-one` | 01.AI (闆朵竴涓囩墿) |
+| <img src="svgs/zeroone-color.svg" width="24" height="24"> | `zero-one` | 01.AI (零一万物) |
 | <img src="svgs/ai302-color.svg" width="24" height="24"> | `ai302` | 302.AI |
 | <img src="svgs/agentvoice-color.svg" width="24" height="24"> | `agent-voice` | AgentVoice |
 | <img src="svgs/aistudio.svg" width="24" height="24"> | `ai-studio` | AI Studio (Google) |
-| <img src="svgs/ai360-color.svg" width="24" height="24"> | `ai360` | Ai360 (360鏅鸿剳) |
-| <img src="svgs/aihubmix-color.svg" width="24" height="24"> | `ai-hub-mix` | AiHubMix (鎺ㄧ悊鏃朵唬) |
-| <img src="svgs/aimass-color.svg" width="24" height="24"> | `ai-mass` | AiMass (绱笢澶垵) |
+| <img src="svgs/ai360-color.svg" width="24" height="24"> | `ai360` | Ai360 (360智脑) |
+| <img src="svgs/aihubmix-color.svg" width="24" height="24"> | `ai-hub-mix` | AiHubMix (推理时代) |
+| <img src="svgs/aimass-color.svg" width="24" height="24"> | `ai-mass` | AiMass (紫东太初) |
 | <img src="svgs/akashchat-color.svg" width="24" height="24"> | `akash-chat` | AkashChat |
 | <img src="svgs/alephalpha.svg" width="24" height="24"> | `aleph-alpha` | AlephAlpha |
 | <img src="svgs/alibaba-color.svg" width="24" height="24"> | `alibaba` | Alibaba |
-| <img src="svgs/alibabacloud-color.svg" width="24" height="24"> | `alibaba-cloud` | AlibabaCloud (闃块噷浜? |
+| <img src="svgs/alibabacloud-color.svg" width="24" height="24"> | `alibaba-cloud` | AlibabaCloud (阿里云) |
 | <img src="svgs/anspire-color.svg" width="24" height="24"> | `anspire` | Anspire |
 | <img src="svgs/antgroup-color.svg" width="24" height="24"> | `ant-group` | AntGroup |
 | <img src="svgs/anthropic.svg" width="24" height="24"> | `anthropic` | Anthropic |
@@ -46,13 +46,13 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/aws-color.svg" width="24" height="24"> | `aws` | AWS |
 | <img src="svgs/azureai-color.svg" width="24" height="24"> | `azure-ai` | AzureAI |
 | <img src="svgs/baidu-color.svg" width="24" height="24"> | `baidu` | Baidu |
-| <img src="svgs/baiducloud-color.svg" width="24" height="24"> | `baidu-cloud` | BaiduCloud (鐧惧害鏅鸿兘浜? |
-| <img src="svgs/bailian-color.svg" width="24" height="24"> | `bailian` | Bailian (闃块噷浜戠櫨鐐? |
+| <img src="svgs/baiducloud-color.svg" width="24" height="24"> | `baidu-cloud` | BaiduCloud (百度智能云) |
+| <img src="svgs/bailian-color.svg" width="24" height="24"> | `bailian` | Bailian (阿里云百炼) |
 | <img src="svgs/baseten.svg" width="24" height="24"> | `baseten` | Baseten |
 | <img src="svgs/bedrock-color.svg" width="24" height="24"> | `bedrock` | Bedrock (AWS) |
-| <img src="svgs/bilibili-color.svg" width="24" height="24"> | `bilibili` | Bilibili (鍝斿摡鍝斿摡) |
+| <img src="svgs/bilibili-color.svg" width="24" height="24"> | `bilibili` | Bilibili (哔哩哔哩) |
 | <img src="svgs/bfl.svg" width="24" height="24"> | `bfl` | Black Forest Labs (bfl) |
-| <img src="svgs/bocha-color.svg" width="24" height="24"> | `bocha` | Bocha (鍗氭煡) |
+| <img src="svgs/bocha-color.svg" width="24" height="24"> | `bocha` | Bocha (博查) |
 | <img src="svgs/brave-color.svg" width="24" height="24"> | `brave` | Brave |
 | <img src="svgs/briaai-color.svg" width="24" height="24"> | `bria-ai` | BRIA AI |
 | <img src="svgs/browserless.svg" width="24" height="24"> | `browserless` | Browserless |
@@ -79,14 +79,14 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/groq.svg" width="24" height="24"> | `groq` | Groq |
 | <img src="svgs/higress-color.svg" width="24" height="24"> | `higress` | Higress |
 | <img src="svgs/huawei-color.svg" width="24" height="24"> | `huawei` | Huawei |
-| <img src="svgs/huaweicloud-color.svg" width="24" height="24"> | `huawei-cloud` | HuaweiCloud (鍗庝负浜? |
+| <img src="svgs/huaweicloud-color.svg" width="24" height="24"> | `huawei-cloud` | HuaweiCloud (华为云) |
 | <img src="svgs/huggingface-color.svg" width="24" height="24"> | `hugging-face` | HuggingFace |
 | <img src="svgs/hyperbolic-color.svg" width="24" height="24"> | `hyperbolic` | Hyperbolic |
 | <img src="svgs/ibm.svg" width="24" height="24"> | `ibm` | IBM (Granite) |
-| <img src="svgs/iflytekcloud-color.svg" width="24" height="24"> | `i-fly-tek-cloud` | IFlyTekCloud (璁寮€鏀惧钩鍙? |
+| <img src="svgs/iflytekcloud-color.svg" width="24" height="24"> | `i-fly-tek-cloud` | IFlyTekCloud (讯飞开放平台) |
 | <img src="svgs/inference.svg" width="24" height="24"> | `inference` | Inference |
 | <img src="svgs/infermatic-color.svg" width="24" height="24"> | `infermatic` | Infermatic |
-| <img src="svgs/infinigence-color.svg" width="24" height="24"> | `infinigence` | Infinigence (鏃犻棶鑺┕) |
+| <img src="svgs/infinigence-color.svg" width="24" height="24"> | `infinigence` | Infinigence (无问芯穹) |
 | <img src="svgs/internlm-color.svg" width="24" height="24"> | `intern-lm` | InternLM |
 | <img src="svgs/jina.svg" width="24" height="24"> | `jina` | Jina AI |
 | <img src="svgs/kagi.svg" width="24" height="24"> | `kagi` | Kagi |
@@ -101,8 +101,8 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/meta-color.svg" width="24" height="24"> | `meta` | Meta |
 | <img src="svgs/microsoft-color.svg" width="24" height="24"> | `microsoft` | Microsoft |
 | <img src="svgs/azure-color.svg" width="24" height="24"> | `azure` | Microsoft Azure |
-| <img src="svgs/modelscope-color.svg" width="24" height="24"> | `model-scope` | ModelScope (榄旀惌) |
-| <img src="svgs/moonshot.svg" width="24" height="24"> | `moonshot` | Moonshot (鏈堜箣鏆楅潰) |
+| <img src="svgs/modelscope-color.svg" width="24" height="24"> | `model-scope` | ModelScope (魔搭) |
+| <img src="svgs/moonshot.svg" width="24" height="24"> | `moonshot` | Moonshot (月之暗面) |
 | <img src="svgs/nebius.svg" width="24" height="24"> | `nebius` | Nebius |
 | <img src="svgs/newapi-color.svg" width="24" height="24"> | `new-api` | New API |
 | <img src="svgs/nousresearch.svg" width="24" height="24"> | `nous-research` | NousResearch (Hermes) |
@@ -116,7 +116,7 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/perplexity-color.svg" width="24" height="24"> | `perplexity` | Perplexity |
 | <img src="svgs/pi.svg" width="24" height="24"> | `pi` | Pi Agent |
 | <img src="svgs/ppio-color.svg" width="24" height="24"> | `ppio` | PPIO |
-| <img src="svgs/qiniu-color.svg" width="24" height="24"> | `qiniu` | Qiniu (涓冪墰浜? |
+| <img src="svgs/qiniu-color.svg" width="24" height="24"> | `qiniu` | Qiniu (七牛云) |
 | <img src="svgs/replicate.svg" width="24" height="24"> | `replicate` | Replicate |
 | <img src="svgs/sambanova-color.svg" width="24" height="24"> | `samba-nova` | SambaNova |
 | <img src="svgs/search1api-color.svg" width="24" height="24"> | `search1-api` | Search1API |
@@ -127,20 +127,20 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/sophnet-color.svg" width="24" height="24"> | `soph-net` | SophNet |
 | <img src="svgs/speedai-color.svg" width="24" height="24"> | `speed-ai` | SpeedAI |
 | <img src="svgs/stability-color.svg" width="24" height="24"> | `stability` | Stability (StableDiffusion) |
-| <img src="svgs/statecloud-color.svg" width="24" height="24"> | `state-cloud` | StateCloud (澶╃考浜? |
+| <img src="svgs/statecloud-color.svg" width="24" height="24"> | `state-cloud` | StateCloud (天翼云) |
 | <img src="svgs/straico-color.svg" width="24" height="24"> | `straico` | Straico |
 | <img src="svgs/streamlake-color.svg" width="24" height="24"> | `stream-lake` | StreamLake |
 | <img src="svgs/submodel-color.svg" width="24" height="24"> | `sub-model` | SubModel |
 | <img src="svgs/targon-color.svg" width="24" height="24"> | `targon` | Targon |
 | <img src="svgs/tii-color.svg" width="24" height="24"> | `tii` | Technology Innovation Institute (Falcon) |
 | <img src="svgs/tencent-color.svg" width="24" height="24"> | `tencent` | Tencent |
-| <img src="svgs/tencentcloud-color.svg" width="24" height="24"> | `tencent-cloud` | TencentCloud (鑵捐浜? |
+| <img src="svgs/tencentcloud-color.svg" width="24" height="24"> | `tencent-cloud` | TencentCloud (腾讯云) |
 | <img src="svgs/together-color.svg" width="24" height="24"> | `together` | together.ai |
 | <img src="svgs/upstage-color.svg" width="24" height="24"> | `upstage` | Upstage |
 | <img src="svgs/vercel.svg" width="24" height="24"> | `vercel` | Vercel |
 | <img src="svgs/vertexai-color.svg" width="24" height="24"> | `vertex-ai` | VertexAI (Google) |
 | <img src="svgs/vllm-color.svg" width="24" height="24"> | `vllm` | vLLM |
-| <img src="svgs/volcengine-color.svg" width="24" height="24"> | `volcengine` | Volcengine (鐏北寮曟搸) |
+| <img src="svgs/volcengine-color.svg" width="24" height="24"> | `volcengine` | Volcengine (火山引擎) |
 | <img src="svgs/workersai-color.svg" width="24" height="24"> | `workers-ai` | WorkersAI (Cloudflare) |
 | <img src="svgs/worldrouter.svg" width="24" height="24"> | `world-router` | WorldRouter |
 | <img src="svgs/xai.svg" width="24" height="24"> | `xai` | xAI |
@@ -148,7 +148,7 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/xpay-color.svg" width="24" height="24"> | `xpay` | Xpay |
 | <img src="svgs/yandex.svg" width="24" height="24"> | `yandex` | Yandex |
 | <img src="svgs/zenmux.svg" width="24" height="24"> | `zen-mux` | ZenMux |
-| <img src="svgs/zhipu-color.svg" width="24" height="24"> | `zhipu` | Zhipu (鏅鸿氨) |
+| <img src="svgs/zhipu-color.svg" width="24" height="24"> | `zhipu` | Zhipu (智谱) |
 
 ### Model (67)
 
@@ -161,22 +161,22 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/arcee-color.svg" width="24" height="24"> | `arcee` | Arcee |
 | <img src="svgs/assemblyai-color.svg" width="24" height="24"> | `assembly-ai` | AssemblyAI |
 | <img src="svgs/aya-color.svg" width="24" height="24"> | `aya` | Aya (Cohere) |
-| <img src="svgs/baai.svg" width="24" height="24"> | `baai` | BAAI (鏅烘簮鐮旂┒闄? |
-| <img src="svgs/baichuan-color.svg" width="24" height="24"> | `baichuan` | Baichuan (鐧惧窛) |
+| <img src="svgs/baai.svg" width="24" height="24"> | `baai` | BAAI (智源研究院) |
+| <img src="svgs/baichuan-color.svg" width="24" height="24"> | `baichuan` | Baichuan (百川) |
 | <img src="svgs/bilibiliindex.svg" width="24" height="24"> | `bilibili-index` | Bilibili Index (Index Team) |
-| <img src="svgs/chatglm-color.svg" width="24" height="24"> | `chat-glm` | ChatGLM (鏅鸿氨) |
+| <img src="svgs/chatglm-color.svg" width="24" height="24"> | `chat-glm` | ChatGLM (智谱) |
 | <img src="svgs/claude-color.svg" width="24" height="24"> | `claude` | Claude |
 | <img src="svgs/codegeex-color.svg" width="24" height="24"> | `code-gee-x` | CodeGeeX |
 | <img src="svgs/codex-color.svg" width="24" height="24"> | `codex` | Codex (OpenAI) |
 | <img src="svgs/cogvideo-color.svg" width="24" height="24"> | `cog-video` | CogVideo |
 | <img src="svgs/cogview-color.svg" width="24" height="24"> | `cog-view` | CogView |
 | <img src="svgs/commanda-color.svg" width="24" height="24"> | `command-a` | CommandA (Cohere) |
-| <img src="svgs/dalle-color.svg" width="24" height="24"> | `dalle` | DALL路E (OpenAI) |
+| <img src="svgs/dalle-color.svg" width="24" height="24"> | `dalle` | DALL·E (OpenAI) |
 | <img src="svgs/dbrx-color.svg" width="24" height="24"> | `dbrx` | DBRX (Databricks) |
 | <img src="svgs/deepcogito-color.svg" width="24" height="24"> | `deep-cogito` | Deep Cogito |
 | <img src="svgs/deepseek-color.svg" width="24" height="24"> | `deep-seek` | DeepSeek |
 | <img src="svgs/dolphin.svg" width="24" height="24"> | `dolphin` | Dolphin (dphnAI) |
-| <img src="svgs/doubao-color.svg" width="24" height="24"> | `doubao` | Doubao (璞嗗寘) |
+| <img src="svgs/doubao-color.svg" width="24" height="24"> | `doubao` | Doubao (豆包) |
 | <img src="svgs/elevenlabs.svg" width="24" height="24"> | `eleven-labs` | ElevenLabs |
 | <img src="svgs/essentialai-color.svg" width="24" height="24"> | `essential-ai` | Essential AI |
 | <img src="svgs/fishaudio.svg" width="24" height="24"> | `fish-audio` | FishAudio (Bert) |
@@ -186,10 +186,10 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/glmv-color.svg" width="24" height="24"> | `glmv` | GLM-V |
 | <img src="svgs/grok.svg" width="24" height="24"> | `grok` | Grok (xAI) |
 | <img src="svgs/happyhorse.svg" width="24" height="24"> | `happy-horse` | HappyHorse |
-| <img src="svgs/hunyuan-color.svg" width="24" height="24"> | `hunyuan` | Hunyuan (鑵捐娣峰厓) |
+| <img src="svgs/hunyuan-color.svg" width="24" height="24"> | `hunyuan` | Hunyuan (腾讯混元) |
 | <img src="svgs/inception.svg" width="24" height="24"> | `inception` | Inception Labs |
 | <img src="svgs/inflection.svg" width="24" height="24"> | `inflection` | Inflection |
-| <img src="svgs/kolors-color.svg" width="24" height="24"> | `kolors` | Kolors (蹇墜鍙浘) |
+| <img src="svgs/kolors-color.svg" width="24" height="24"> | `kolors` | Kolors (快手可图) |
 | <img src="svgs/kwaikat.svg" width="24" height="24"> | `kwai-kat` | KwaiKAT (KAT-Coder) |
 | <img src="svgs/kwaipilot-color.svg" width="24" height="24"> | `kwaipilot` | Kwaipilot |
 | <img src="svgs/liquid.svg" width="24" height="24"> | `liquid` | Liquid |
@@ -207,20 +207,20 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/phind.svg" width="24" height="24"> | `phind` | Phind |
 | <img src="svgs/poolside-color.svg" width="24" height="24"> | `poolside` | Poolside |
 | <img src="svgs/prunaai-color.svg" width="24" height="24"> | `pruna-ai` | Pruna AI |
-| <img src="svgs/qwen-color.svg" width="24" height="24"> | `qwen` | Qwen (鍗冮棶) |
+| <img src="svgs/qwen-color.svg" width="24" height="24"> | `qwen` | Qwen (千问) |
 | <img src="svgs/relace.svg" width="24" height="24"> | `relace` | Relace |
 | <img src="svgs/reve.svg" width="24" height="24"> | `reve` | Reve |
 | <img src="svgs/rwkv-color.svg" width="24" height="24"> | `rwkv` | RWKV |
-| <img src="svgs/sensenova-color.svg" width="24" height="24"> | `sense-nova` | SenseNova (鍟嗘堡) |
-| <img src="svgs/skywork-color.svg" width="24" height="24"> | `skywork` | Skywork (澶╁伐) |
+| <img src="svgs/sensenova-color.svg" width="24" height="24"> | `sense-nova` | SenseNova (商汤) |
+| <img src="svgs/skywork-color.svg" width="24" height="24"> | `skywork` | Skywork (天工) |
 | <img src="svgs/sora-color.svg" width="24" height="24"> | `sora` | Sora (OpenAI) |
-| <img src="svgs/spark-color.svg" width="24" height="24"> | `spark` | Spark (璁鏄熺伀) |
-| <img src="svgs/stepfun.svg" width="24" height="24"> | `stepfun` | Stepfun (闃惰穬鏄熻景) |
+| <img src="svgs/spark-color.svg" width="24" height="24"> | `spark` | Spark (讯飞星火) |
+| <img src="svgs/stepfun.svg" width="24" height="24"> | `stepfun` | Stepfun (阶跃星辰) |
 | <img src="svgs/voyage-color.svg" width="24" height="24"> | `voyage` | Voyage |
-| <img src="svgs/wenxin-color.svg" width="24" height="24"> | `wenxin` | Wenxin (鏂囧績) |
+| <img src="svgs/wenxin-color.svg" width="24" height="24"> | `wenxin` | Wenxin (文心) |
 | <img src="svgs/xiaomimimo.svg" width="24" height="24"> | `xiaomi-mi-mo` | Xiaomi MiMo |
-| <img src="svgs/xuanyuan-color.svg" width="24" height="24"> | `xuanyuan` | Xuanyuan (搴﹀皬婊¤僵杈? |
-| <img src="svgs/yi-color.svg" width="24" height="24"> | `yi` | Yi (闆朵竴涓囩墿) |
+| <img src="svgs/xuanyuan-color.svg" width="24" height="24"> | `xuanyuan` | Xuanyuan (度小满轩辕) |
+| <img src="svgs/yi-color.svg" width="24" height="24"> | `yi` | Yi (零一万物) |
 
 ### Application (130)
 
@@ -271,17 +271,17 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/goose.svg" width="24" height="24"> | `goose` | Goose (codename) |
 | <img src="svgs/gradio-color.svg" width="24" height="24"> | `gradio` | Gradio |
 | <img src="svgs/greptile-color.svg" width="24" height="24"> | `greptile` | Greptile |
-| <img src="svgs/hailuo-color.svg" width="24" height="24"> | `hailuo` | Hailuo (娴疯灪) |
+| <img src="svgs/hailuo-color.svg" width="24" height="24"> | `hailuo` | Hailuo (海螺) |
 | <img src="svgs/haiper.svg" width="24" height="24"> | `haiper` | Haiper |
 | <img src="svgs/hedra.svg" width="24" height="24"> | `hedra` | Hedra |
 | <img src="svgs/hermesagent.svg" width="24" height="24"> | `hermes-agent` | Hermes Agent |
 | <img src="svgs/ideogram.svg" width="24" height="24"> | `ideogram` | Ideogram |
-| <img src="svgs/jimeng-color.svg" width="24" height="24"> | `jimeng` | Jimeng (鍗虫ⅵ) |
+| <img src="svgs/jimeng-color.svg" width="24" height="24"> | `jimeng` | Jimeng (即梦) |
 | <img src="svgs/junie-color.svg" width="24" height="24"> | `junie` | Junie |
 | <img src="svgs/kilocode.svg" width="24" height="24"> | `kilo-code` | Kilo Code |
 | <img src="svgs/kimi-color.svg" width="24" height="24"> | `kimi` | Kimi |
 | <img src="svgs/kiro-color.svg" width="24" height="24"> | `kiro` | Kiro |
-| <img src="svgs/kling-color.svg" width="24" height="24"> | `kling` | Kling (鍙伒) |
+| <img src="svgs/kling-color.svg" width="24" height="24"> | `kling` | Kling (可灵) |
 | <img src="svgs/krea.svg" width="24" height="24"> | `krea` | Krea |
 | <img src="svgs/langchain-color.svg" width="24" height="24"> | `lang-chain` | LangChain |
 | <img src="svgs/langfuse-color.svg" width="24" height="24"> | `langfuse` | Langfuse |
@@ -323,7 +323,7 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/poe-color.svg" width="24" height="24"> | `poe` | Poe |
 | <img src="svgs/pollinations.svg" width="24" height="24"> | `pollinations` | Pollinations |
 | <img src="svgs/pydanticai-color.svg" width="24" height="24"> | `pydantic-ai` | PydanticAI |
-| <img src="svgs/qingyan-color.svg" width="24" height="24"> | `qingyan` | Qingyan (鏅鸿氨娓呰█) |
+| <img src="svgs/qingyan-color.svg" width="24" height="24"> | `qingyan` | Qingyan (智谱清言) |
 | <img src="svgs/qoder-color.svg" width="24" height="24"> | `qoder` | Qoder |
 | <img src="svgs/railway.svg" width="24" height="24"> | `railway` | Railway |
 | <img src="svgs/recraft.svg" width="24" height="24"> | `recraft` | Recraft |
@@ -337,7 +337,7 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/suno.svg" width="24" height="24"> | `suno` | Suno |
 | <img src="svgs/sync.svg" width="24" height="24"> | `sync` | Sync |
 | <img src="svgs/tavily-color.svg" width="24" height="24"> | `tavily` | Tavily |
-| <img src="svgs/tiangong-color.svg" width="24" height="24"> | `tiangong` | Tiangong (澶╁伐) |
+| <img src="svgs/tiangong-color.svg" width="24" height="24"> | `tiangong` | Tiangong (天工) |
 | <img src="svgs/topazlabs.svg" width="24" height="24"> | `topaz-labs` | TopazLabs |
 | <img src="svgs/trae-color.svg" width="24" height="24"> | `trae` | TRAE |
 | <img src="svgs/tripo-color.svg" width="24" height="24"> | `tripo` | Tripo |
@@ -351,30 +351,28 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/viggle.svg" width="24" height="24"> | `viggle` | Viggle |
 | <img src="svgs/windsurf.svg" width="24" height="24"> | `windsurf` | Windsurf |
 | <img src="svgs/youmind.svg" width="24" height="24"> | `you-mind` | YouMind |
-| <img src="svgs/yuanbao-color.svg" width="24" height="24"> | `yuanbao` | Yuanbao (鑵捐鍏冨疂) |
+| <img src="svgs/yuanbao-color.svg" width="24" height="24"> | `yuanbao` | Yuanbao (腾讯元宝) |
 | <img src="svgs/zai.svg" width="24" height="24"> | `zai` | Z.ai |
 | <img src="svgs/zapier-color.svg" width="24" height="24"> | `zapier` | Zapier |
 | <img src="svgs/zeabur-color.svg" width="24" height="24"> | `zeabur` | Zeabur |
 | <img src="svgs/zencoder-color.svg" width="24" height="24"> | `zencoder` | Zencoder |
 
-
 ## Directory Structure
 
 ```
 ai-icons/
-├── svgs/               # All SVG icons (flat)
-│   ├── openai.svg
-│   ├── openai-color.svg
-│   ├── claude.svg
-│   ├── cursor.svg
-│   └── ...
-├── icon-toc.json       # Metadata (group, color, variants)
+├── svgs/              # All icons (flat)
+│   ├── {icon}.svg
+│   ├── {icon}-color.svg
+│   └── {icon}-text.svg
+├── icon-toc.json
 ├── assets/
 │   └── screenshot.jpg
 ├── README.md
 ├── README.zh.md
 └── .gitignore
 ```
+
 ## Naming Convention
 
 | File Pattern | Description |
