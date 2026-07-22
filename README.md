@@ -1,4 +1,4 @@
-﻿# AI Icons
+# AI Icons
 
 [涓枃](README.zh.md) | **English**
 
@@ -357,6 +357,7 @@ The online version provides a better browsing experience with search, filtering,
 | <img src="svgs/zeabur-color.svg" width="24" height="24"> | `zeabur` | Zeabur |
 | <img src="svgs/zencoder-color.svg" width="24" height="24"> | `zencoder` | Zencoder |
 
+
 ## Directory Structure
 
 ```
@@ -374,7 +375,6 @@ ai-icons/
 ├── README.zh.md
 └── .gitignore
 ```
-
 ## Naming Convention
 
 | File Pattern | Description |
