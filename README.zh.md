@@ -388,4 +388,6 @@ MIT
 
 ## 致谢
 
+感谢 [LobeHub Icons](https://github.com/lobehub/lobe-icons) 提供的原始图标资源
+
 感谢 [Goku Prompt Hub](https://prompthub.gokuscraper.com) 提供的图标管理与展示平台

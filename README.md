@@ -382,6 +382,12 @@ ai-icons/
 | `{name}-color.svg` | Color variant |
 | `{name}-text.svg` | Text logo variant |
 
+## Acknowledgments
+
+Thanks to [LobeHub Icons](https://github.com/lobehub/lobe-icons) for the original icon collection.
+
+Thanks to [Goku Prompt Hub](https://prompthub.gokuscraper.com) for the icon management and preview platform.
+
 ## License
 
 MIT
