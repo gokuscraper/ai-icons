@@ -1127,6 +1127,25 @@
     "title": "CherryStudio"
   },
   {
+    "color": "#0D0D0D",
+    "desc": "https://chutes.ai",
+    "docsUrl": "chutes",
+    "fullTitle": "Chutes",
+    "group": "provider",
+    "id": "Chutes",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": false,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Chutes"
+  },
+  {
     "color": "#fff",
     "desc": "https://civitai.com",
     "docsUrl": "civitai",
@@ -1644,6 +1663,25 @@
     "title": "DBRX"
   },
   {
+    "color": "#2548F6",
+    "desc": "https://decart.ai",
+    "docsUrl": "decart",
+    "fullTitle": "Decart",
+    "group": "provider",
+    "id": "Decart",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Decart"
+  },
+  {
     "color": "#fff",
     "desc": "hhttps://deepai.org",
     "docsUrl": "deep-ai",
@@ -1796,6 +1834,25 @@
     "title": "Dify"
   },
   {
+    "color": "#0080FF",
+    "desc": "https://digitalocean.com",
+    "docsUrl": "digital-ocean",
+    "fullTitle": "DigitalOcean",
+    "group": "provider",
+    "id": "DigitalOcean",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "DigitalOcean"
+  },
+  {
     "color": "#fff",
     "desc": "https://doc2x.noedgeai.com",
     "docsUrl": "doc2-x",
@@ -1929,6 +1986,25 @@
     "title": "11x"
   },
   {
+    "color": "#0A7CFF",
+    "desc": "https://empiriolabs.ai",
+    "docsUrl": "empirio-labs",
+    "fullTitle": "EmpirioLabs AI",
+    "group": "provider",
+    "id": "EmpirioLabs",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "EmpirioLabs AI"
+  },
+  {
     "color": "#111322",
     "colorGradient": "linear-gradient(135deg, #5E38A5, #31018C 63%)",
     "desc": "https://essential.ai",
@@ -1947,6 +2023,25 @@
       "hasTextColor": false
     },
     "title": "Essential AI"
+  },
+  {
+    "color": "#0A1636",
+    "desc": "https://everruns.com",
+    "docsUrl": "everruns",
+    "fullTitle": "Everruns",
+    "group": "provider",
+    "id": "Everruns",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Everruns"
   },
   {
     "color": "#1f40ed",
@@ -2099,6 +2194,25 @@
       "hasTextColor": false
     },
     "title": "FishAudio"
+  },
+  {
+    "color": "#1A1A1F",
+    "desc": "https://5dive.ai",
+    "docsUrl": "5dive",
+    "fullTitle": "5dive",
+    "group": "provider",
+    "id": "FiveDive",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "5dive"
   },
   {
     "color": "#000",
@@ -2347,6 +2461,25 @@
       "hasTextColor": false
     },
     "title": "GLM-V"
+  },
+  {
+    "color": "#0A0A0A",
+    "desc": "https://gmicloud.ai",
+    "docsUrl": "gmi-cloud",
+    "fullTitle": "GmiCloud",
+    "group": "provider",
+    "id": "GmiCloud",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": false,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "GmiCloud"
   },
   {
     "color": "#fff",
@@ -2731,6 +2864,25 @@
     "title": "Ideogram"
   },
   {
+    "color": "#94c21a",
+    "desc": "https://image2.to",
+    "docsUrl": "image2",
+    "fullTitle": "Image 2",
+    "group": "application",
+    "id": "Image2",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": false,
+      "hasText": false,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Image 2"
+  },
+  {
     "color": "#2A80E2",
     "desc": "https://xfyun.cn",
     "docsUrl": "i-fly-tek-cloud",
@@ -2767,6 +2919,25 @@
       "hasTextColor": false
     },
     "title": "Inception"
+  },
+  {
+    "color": "#666666",
+    "desc": "https://inceptron.io",
+    "docsUrl": "inceptron",
+    "fullTitle": "Inceptron",
+    "group": "provider",
+    "id": "Inceptron",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Inceptron"
   },
   {
     "color": "#000",
@@ -2862,6 +3033,25 @@
       "hasTextColor": false
     },
     "title": "InternLM"
+  },
+  {
+    "color": "#3179FF",
+    "desc": "https://io.net",
+    "docsUrl": "io-net",
+    "fullTitle": "IoNet",
+    "group": "provider",
+    "id": "IoNet",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "IoNet"
   },
   {
     "color": "#000",
@@ -3514,6 +3704,25 @@
     "title": "Make"
   },
   {
+    "color": "#5138EE",
+    "desc": "https://mancer.tech",
+    "docsUrl": "mancer",
+    "fullTitle": "Mancer",
+    "group": "provider",
+    "id": "Mancer",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Mancer"
+  },
+  {
     "color": "#fff",
     "desc": "https://manus.im",
     "docsUrl": "manus",
@@ -3954,6 +4163,25 @@
     "title": "New API"
   },
   {
+    "color": "#04D98B",
+    "desc": "https://nextbit256.com",
+    "docsUrl": "nextbit",
+    "fullTitle": "Nextbit",
+    "group": "provider",
+    "id": "Nextbit",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Nextbit"
+  },
+  {
     "color": "#fff",
     "desc": "https://notebooklm.google",
     "docsUrl": "notebook-lm",
@@ -4335,6 +4563,25 @@
     "title": "Parasail"
   },
   {
+    "color": "#F8F4EB",
+    "desc": "https://perceptron.inc",
+    "docsUrl": "perceptron",
+    "fullTitle": "Perceptron",
+    "group": "provider",
+    "id": "Perceptron",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Perceptron"
+  },
+  {
     "color": "#22B8CD",
     "desc": "https://perplexity.ai",
     "docsUrl": "perplexity",
@@ -4352,6 +4599,44 @@
       "hasTextColor": false
     },
     "title": "Perplexity"
+  },
+  {
+    "color": "#CDFA50",
+    "desc": "https://phala.com",
+    "docsUrl": "phala",
+    "fullTitle": "Phala",
+    "group": "provider",
+    "id": "Phala",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Phala"
+  },
+  {
+    "color": "#010915",
+    "desc": "https://personastack.ai",
+    "docsUrl": "persona-stack",
+    "fullTitle": "PersonaStack",
+    "group": "provider",
+    "id": "PersonaStack",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "PersonaStack"
   },
   {
     "color": "#FF4017",
@@ -4504,6 +4789,25 @@
       "hasTextColor": false
     },
     "title": "Pollinations"
+  },
+  {
+    "color": "#B2F72A",
+    "desc": "https://polza.ai",
+    "docsUrl": "polza",
+    "fullTitle": "Polza",
+    "group": "provider",
+    "id": "Polza",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Polza"
   },
   {
     "color": "#4137FF",
@@ -4717,6 +5021,25 @@
     "title": "Relace"
   },
   {
+    "color": "#2276FF",
+    "desc": "https://reka.ai",
+    "docsUrl": "reka",
+    "fullTitle": "Reka",
+    "group": "model",
+    "id": "Reka",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Reka"
+  },
+  {
     "color": "#EA2805",
     "desc": "https://replicate.com",
     "docsUrl": "replicate",
@@ -4734,6 +5057,25 @@
       "hasTextColor": false
     },
     "title": "Replicate"
+  },
+  {
+    "color": "#10B981",
+    "desc": "https://respira.press",
+    "docsUrl": "respira",
+    "fullTitle": "Respira",
+    "group": "provider",
+    "id": "Respira",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Respira"
   },
   {
     "color": "#FD5402",
@@ -4849,6 +5191,25 @@
       "hasTextColor": false
     },
     "title": "RWKV"
+  },
+  {
+    "color": "#E10600",
+    "desc": "https://sakana.ai",
+    "docsUrl": "sakana",
+    "fullTitle": "Sakana",
+    "group": "provider",
+    "id": "Sakana",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Sakana"
   },
   {
     "color": "#EE7624",
@@ -5231,6 +5592,25 @@
       "hasTextColor": false
     },
     "title": "StreamLake"
+  },
+  {
+    "color": "#2FD3E1",
+    "desc": "https://sub2api.org",
+    "docsUrl": "sub2-api",
+    "fullTitle": "Sub2API",
+    "group": "provider",
+    "id": "Sub2API",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Sub2API"
   },
   {
     "color": "#fff",
@@ -5750,8 +6130,45 @@
     "title": "Voyage"
   },
   {
+    "color": "#1A1A1A",
+    "desc": "https://wafer.ai",
+    "docsUrl": "wafer",
+    "fullTitle": "Wafer",
+    "group": "application",
+    "id": "Wafer",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Wafer"
+  },
+  {
+    "color": "#FFCC33",
+    "desc": "https://wandb.ai",
+    "docsUrl": "wandb",
+    "fullTitle": "Wandb",
+    "group": "application",
+    "id": "Wandb",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Wandb"
+  },
+  {
     "color": "#167ADF",
-    "colorGradient": "linear-gradient(to right, #0A51C3,  #23A4FB)",
     "desc": "https://yiyan.baidu.com",
     "docsUrl": "wenxin",
     "fullTitle": "Wenxin (文心)",
@@ -6129,5 +6546,81 @@
       "hasTextColor": false
     },
     "title": "Zhipu"
+  },
+  {
+    "color": "#2272FC",
+    "desc": "https://aionly.app",
+    "docsUrl": "ai-only",
+    "fullTitle": "AiOnly",
+    "group": "provider",
+    "id": "AiOnly",
+    "param": {
+      "hasAvatar": false,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": false,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "AiOnly"
+  },
+  {
+    "color": "#009BF2",
+    "desc": "https://anyapi.ai",
+    "docsUrl": "any-api",
+    "fullTitle": "AnyApi",
+    "group": "provider",
+    "id": "AnyApi",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "AnyApi"
+  },
+  {
+    "color": "#848484",
+    "desc": "https://ghast.trapezohe.ai",
+    "docsUrl": "ghast",
+    "fullTitle": "Ghast",
+    "group": "application",
+    "id": "Ghast",
+    "param": {
+      "hasAvatar": true,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": true,
+      "hasCombine": true,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Ghast"
+  },
+  {
+    "color": "#000000",
+    "desc": "https://www.kollab.com",
+    "docsUrl": "kollab",
+    "fullTitle": "Kollab",
+    "group": "provider",
+    "id": "Kollab",
+    "param": {
+      "hasAvatar": false,
+      "hasBrand": false,
+      "hasBrandColor": false,
+      "hasColor": false,
+      "hasCombine": false,
+      "hasText": true,
+      "hasTextCn": false,
+      "hasTextColor": false
+    },
+    "title": "Kollab"
   }
 ]

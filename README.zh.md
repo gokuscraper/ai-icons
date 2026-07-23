@@ -2,7 +2,7 @@
 
 **中文** | [English](README.md)
 
-> **321 AI / LLM brand icons** in SVG format — Mono · Color · Text variants
+> **347 AI / LLM brand icons** in SVG format — Mono · Color · Text variants
 
 [![Website](https://img.shields.io/badge/Online%20Preview-prompthub.gokuscraper.com-blue)](https://prompthub.gokuscraper.com/icons/)
 
@@ -16,7 +16,7 @@
 
 需要这里没有的图标？欢迎[提交 Issue](https://github.com/gokuscraper/ai-icons/issues)。
 
-### Provider（124 个）
+### Provider（145 个）
 
 | 图标 | ID | 名称 |
 |------|----|------|
@@ -144,8 +144,29 @@
 | <img src="svgs/yandex.svg" width="24" height="24"> | `yandex` | Yandex |
 | <img src="svgs/zenmux.svg" width="24" height="24"> | `zen-mux` | ZenMux |
 | <img src="svgs/zhipu-color.svg" width="24" height="24"> | `zhipu` | Zhipu (智谱) |
+| <img src="svgs/5dive-color.svg" width="24" height="24"> | `5dive` | 5dive |
+| <img src="svgs/aionly-color.svg" width="24" height="24"> | `ai-only` | AiOnly |
+| <img src="svgs/anyapi-color.svg" width="24" height="24"> | `any-api` | AnyApi |
+| <img src="svgs/chutes.svg" width="24" height="24"> | `chutes` | Chutes |
+| <img src="svgs/decart-color.svg" width="24" height="24"> | `decart` | Decart |
+| <img src="svgs/digitalocean-color.svg" width="24" height="24"> | `digital-ocean` | DigitalOcean |
+| <img src="svgs/empiriolabs-color.svg" width="24" height="24"> | `empirio-labs` | EmpirioLabs AI |
+| <img src="svgs/everruns-color.svg" width="24" height="24"> | `everruns` | Everruns |
+| <img src="svgs/gmicloud.svg" width="24" height="24"> | `gmi-cloud` | GmiCloud |
+| <img src="svgs/inceptron-color.svg" width="24" height="24"> | `inceptron` | Inceptron |
+| <img src="svgs/ionet-color.svg" width="24" height="24"> | `io-net` | IoNet |
+| <img src="svgs/kollab.svg" width="24" height="24"> | `kollab` | Kollab |
+| <img src="svgs/mancer-color.svg" width="24" height="24"> | `mancer` | Mancer |
+| <img src="svgs/nextbit-color.svg" width="24" height="24"> | `nextbit` | Nextbit |
+| <img src="svgs/perceptron-color.svg" width="24" height="24"> | `perceptron` | Perceptron |
+| <img src="svgs/personastack-color.svg" width="24" height="24"> | `persona-stack` | PersonaStack |
+| <img src="svgs/phala-color.svg" width="24" height="24"> | `phala` | Phala |
+| <img src="svgs/polza-color.svg" width="24" height="24"> | `polza` | Polza |
+| <img src="svgs/respira-color.svg" width="24" height="24"> | `respira` | Respira |
+| <img src="svgs/sakana-color.svg" width="24" height="24"> | `sakana` | Sakana |
+| <img src="svgs/sub2api-color.svg" width="24" height="24"> | `sub2-api` | Sub2API |
 
-### Model（67 个）
+### Model（68 个）
 
 | 图标 | ID | 名称 |
 |------|----|------|
@@ -216,8 +237,9 @@
 | <img src="svgs/xiaomimimo.svg" width="24" height="24"> | `xiaomi-mi-mo` | Xiaomi MiMo |
 | <img src="svgs/xuanyuan-color.svg" width="24" height="24"> | `xuanyuan` | Xuanyuan (度小满轩辕) |
 | <img src="svgs/yi-color.svg" width="24" height="24"> | `yi` | Yi (零一万物) |
+| <img src="svgs/reka-color.svg" width="24" height="24"> | `reka` | Reka |
 
-### Application（130 个）
+### Application（134 个）
 
 | 图标 | ID | 名称 |
 |------|----|------|
@@ -351,6 +373,10 @@
 | <img src="svgs/zapier-color.svg" width="24" height="24"> | `zapier` | Zapier |
 | <img src="svgs/zeabur-color.svg" width="24" height="24"> | `zeabur` | Zeabur |
 | <img src="svgs/zencoder-color.svg" width="24" height="24"> | `zencoder` | Zencoder |
+| <img src="svgs/ghast-color.svg" width="24" height="24"> | `ghast` | Ghast |
+| <img src="svgs/image2-color.svg" width="24" height="24"> | `image-2` | Image 2 |
+| <img src="svgs/wafer-color.svg" width="24" height="24"> | `wafer` | Wafer |
+| <img src="svgs/wandb-color.svg" width="24" height="24"> | `wandb` | Wandb |
 
 ## 目录结构
 
