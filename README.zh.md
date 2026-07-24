@@ -16,7 +16,7 @@
 
 需要这里没有的图标？欢迎[提交 Issue](https://github.com/gokuscraper/ai-icons/issues)。
 
-### Provider（145 个）
+### Provider（150 个）
 
 | 图标 | ID | 名称 |
 |------|----|------|
@@ -165,6 +165,11 @@
 | <img src="svgs/respira-color.svg" width="24" height="24"> | `respira` | Respira |
 | <img src="svgs/sakana-color.svg" width="24" height="24"> | `sakana` | Sakana |
 | <img src="svgs/sub2api-color.svg" width="24" height="24"> | `sub2-api` | Sub2API |
+| <img src="svgs/brightdata-color.svg" width="24" height="24"> | `bright-data` | Bright Data |
+| <img src="svgs/cambricon-color.svg" width="24" height="24"> | `cambricon` | Cambricon (寒武纪) |
+| <img src="svgs/huaweiascend-color.svg" width="24" height="24"> | `huawei-ascend` | Huawei Ascend (华为昇腾) |
+| <img src="svgs/ovhcloud-color.svg" width="24" height="24"> | `ovhcloud` | OVHcloud |
+| <img src="svgs/pingtouge-color.svg" width="24" height="24"> | `pingtouge` | Pingtouge (平头哥) |
 
 ### Model（68 个）
 
@@ -193,6 +198,7 @@
 | <img src="svgs/deepseek-color.svg" width="24" height="24"> | `deep-seek` | DeepSeek |
 | <img src="svgs/dolphin.svg" width="24" height="24"> | `dolphin` | Dolphin (dphnAI) |
 | <img src="svgs/doubao-color.svg" width="24" height="24"> | `doubao` | Doubao (豆包) |
+| <img src="svgs/doubao-chat-color.svg" width="24" height="24"> | `doubao-chat` | Doubao Chat |
 | <img src="svgs/elevenlabs.svg" width="24" height="24"> | `eleven-labs` | ElevenLabs |
 | <img src="svgs/essentialai-color.svg" width="24" height="24"> | `essential-ai` | Essential AI |
 | <img src="svgs/fishaudio.svg" width="24" height="24"> | `fish-audio` | FishAudio (Bert) |
@@ -239,7 +245,7 @@
 | <img src="svgs/yi-color.svg" width="24" height="24"> | `yi` | Yi (零一万物) |
 | <img src="svgs/reka-color.svg" width="24" height="24"> | `reka` | Reka |
 
-### Application（134 个）
+### Application（137 个）
 
 | 图标 | ID | 名称 |
 |------|----|------|
@@ -377,6 +383,9 @@
 | <img src="svgs/image2-color.svg" width="24" height="24"> | `image-2` | Image 2 |
 | <img src="svgs/wafer-color.svg" width="24" height="24"> | `wafer` | Wafer |
 | <img src="svgs/wandb-color.svg" width="24" height="24"> | `wandb` | Wandb |
+| <img src="svgs/discord-color.svg" width="24" height="24"> | `discord` | Discord |
+| <img src="svgs/meigen-color.svg" width="24" height="24"> | `meigen` | MeiGen |
+| <img src="svgs/wukongai-color.svg" width="24" height="24"> | `wukong-ai` | WukongAI (悟空AI) |
 
 ## 目录结构
 
